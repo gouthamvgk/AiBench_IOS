@@ -30,6 +30,8 @@ I value your trust in providing us your Personal Information, thus we are strivi
 
 This Service may contain links to other sites. If you click on a third-party link, you will be directed to that site. Note that these external sites are not operated by me. Therefore, I strongly advise you to review the Privacy Policy of these websites. I have no control over and assume no responsibility for the content, privacy policies, or practices of any third-party sites or services.
 
+**Opensource CoreML models**
+The app or developer doesn't have any ownership over the opensource models provided in the app. All the model are used based on their opensource license for academic and research purpose. Any usage of this App or the opensource models for commercial usage is strictly prohibited.
 
 **Changes to This Privacy Policy**
 
