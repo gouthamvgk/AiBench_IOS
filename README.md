@@ -1,5 +1,7 @@
 # AiBench - A tool for benchmarking CoreMLModels
 
+### AppStore link - https://apps.apple.com/app/id1518857334
+
 AiBench helps you to know Coreml model's execution time and also supports output visualization for supported model types. You can either benchmark a wide variety of open source MLModels that is available in the App by default or add your own custom CoreMl Model for timing it.
 
 ## Benchmarking opensource models
