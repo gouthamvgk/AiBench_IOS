@@ -16,6 +16,8 @@ While benchmarking the opensource models or your custom models, you can choose t
 - C/GPU - Runs on GPU if compatible else on CPU
 - Best - Runs on the best device available and it includes NPU if your Iphone supports it
 
+If any model throws error while benchmarking in C/GPU or Best mode then it means that the model currently has some layers that is not supported in GPU yet. So running in CPU is the only option.
+
 ## Deleting downloaded model weights
 After downloading and benchmarking the models, you can delete the weights if you don't need them for future use. You can press Remove_model button in the model page to delete the corresponding model's weights or if you want to delete all downloaded weights at once press the bin icon in the App homepage. This will only delete the weights and all the model information is retained so that you can download them again in future(including custom models). In the case of custom models once you remove the model individually, then both model weights and information will be deleted.
 
